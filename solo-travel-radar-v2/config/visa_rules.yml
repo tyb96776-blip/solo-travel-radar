@@ -1,7 +1,0 @@
-statuses: [visa_free, visa_on_arrival, evisa, visa_required, conditional, unknown]
-traveler:
-  nationality: China
-  passport: ordinary
-  residence_context: France
-  schengen_residence_document: true
-official_source_required: true
