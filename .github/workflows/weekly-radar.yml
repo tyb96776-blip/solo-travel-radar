@@ -22,4 +22,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run weekly radar
-        run: python src/main.py weekly
+        run: python -m src.main weekly
