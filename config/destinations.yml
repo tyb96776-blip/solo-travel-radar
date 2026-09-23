@@ -1,0 +1,9 @@
+destinations:
+  - {city: Brussels, country: Belgium, active: true}
+  - {city: Luxembourg, country: Luxembourg, active: true}
+  - {city: Strasbourg, country: France, active: true}
+  - {city: Paris, country: France, active: true}
+  - {city: Amsterdam, country: Netherlands, active: true}
+  - {city: Milan, country: Italy, active: true}
+  - {city: Barcelona, country: Spain, active: true}
+  - {city: Rome, country: Italy, active: true}
