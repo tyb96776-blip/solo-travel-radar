@@ -1,0 +1,7 @@
+report_days_before_departure: 3
+packing:
+  rain_probability_percent: 40
+  precipitation_mm: 2
+  wind_kmh: 30
+  cold_celsius: 10
+  snow: true
