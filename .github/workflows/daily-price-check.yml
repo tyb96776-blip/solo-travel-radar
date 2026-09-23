@@ -22,4 +22,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run daily price check
-        run: python src/main.py daily
+        run: python -m src.main daily
